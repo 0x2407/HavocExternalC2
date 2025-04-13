@@ -9,4 +9,4 @@ BOOM.
 ![image](https://github.com/user-attachments/assets/851c336c-52d2-430c-b783-59ecc950e9f6)
 
 This is just a PoC to leverage graph.microsoft.com as a communicate channel.
-The process of syncing is just scrap. The response maybe slow.
+The process of syncing is just scrap. The response maybe slow. And im not fully implement the command handler to handle the command. Example sometimes it does not have any output because the files is deleted
