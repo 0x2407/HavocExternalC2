@@ -5,5 +5,4 @@ First. Create External C2 Listener
 Then run listener.py and handler.py
 BOOM.
 ![image](https://github.com/user-attachments/assets/6784ff86-bb1b-4f89-8185-e7279382052c)
-
 ![image](https://github.com/user-attachments/assets/851c336c-52d2-430c-b783-59ecc950e9f6)
